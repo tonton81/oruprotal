@@ -13,6 +13,12 @@
       "refresh_yms_spots": "allow"
     },
     {
+      "alias": "AB",
+      "name": "E3C4CEA1F2BDDD44C8856921EF07",
+      "access_app": "allow",
+      "refresh_yms_spots": "allow"
+    },
+    {
       "alias": "CG",
       "name": "E1CFDEABEEBDD144CD967920E31B",
       "access_app": "allow",
