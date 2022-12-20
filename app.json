@@ -5,6 +5,7 @@
       "name": "E9C3DFA0B1B9DB04E2D97837",
       "access_app": "allow",
       "extra_yms_buttons": "allow",
+      "tooltip_additions": "allow",
       "refresh_yms_spots": "allow"
     },
     {
@@ -12,6 +13,7 @@
       "name": "F6C5D4B7",
       "access_app": "allow",
       "extra_yms_buttons": "allow",
+      "tooltip_additions": "allow",
       "refresh_yms_spots": "allow"
     },
     {
@@ -19,6 +21,7 @@
       "name": "E3C4CEA1F2BDDD44C8856921EF07",
       "access_app": "allow",
       "extra_yms_buttons": "allow",
+      "tooltip_additions": "allow",
       "refresh_yms_spots": "allow"
     },
     {
@@ -26,6 +29,7 @@
       "name": "E1CFDEABEEBDD144CD967920E31B",
       "access_app": "allow",
       "extra_yms_buttons": "allow",
+      "tooltip_additions": "allow",
       "refresh_yms_spots": "allow"
     }
   ]
