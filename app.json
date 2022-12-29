@@ -6,6 +6,7 @@
       "access_app": "allow",
       "extra_yms_buttons": "allow",
       "tooltip_additions": "allow",
+      "echo_yms": "allow",
       "refresh_yms_spots": "allow"
     },
     {
@@ -14,6 +15,7 @@
       "access_app": "allow",
       "extra_yms_buttons": "allow",
       "tooltip_additions": "allow",
+      "echo_yms": "allow",
       "refresh_yms_spots": "allow"
     },
     {
@@ -22,6 +24,7 @@
       "access_app": "allow",
       "extra_yms_buttons": "allow",
       "tooltip_additions": "allow",
+      "echo_yms": "allow",
       "refresh_yms_spots": "allow"
     },
     {
@@ -30,6 +33,7 @@
       "access_app": "allow",
       "extra_yms_buttons": "allow",
       "tooltip_additions": "allow",
+      "echo_yms": "allow",
       "refresh_yms_spots": "allow"
     },
     {
@@ -38,6 +42,7 @@
       "access_app": "allow",
       "extra_yms_buttons": "allow",
       "tooltip_additions": "allow",
+      "echo_yms": "allow",
       "refresh_yms_spots": "allow"
     }
   ]
