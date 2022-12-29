@@ -1,6 +1,9 @@
 {
   "users": [
     {
+      "version": "1.0.0"
+    },
+    {
       "alias": "KT",
       "name": "E9C3DFA0B1B9DB04E2D97837",
       "access_app": "allow",
