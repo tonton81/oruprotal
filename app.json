@@ -8,45 +8,45 @@
       "name": "E9C3DFA0B1B9DB04E2D97837",
       "access_app": "allow",
       "extra_yms_buttons": "allow",
-      "tooltip_additions": "allow",
-      "echo_yms": "allow",
-      "yms_data_feature": "allow"
+      "bubble_updates": "allow",
+      "yms_context_menus": "allow",
+      "yms_keepalive_feature": "allow"
     },
     {
       "alias": "TB",
       "name": "F6C5D4B7",
       "access_app": "allow",
       "extra_yms_buttons": "allow",
-      "tooltip_additions": "allow",
-      "echo_yms": "allow",
-      "yms_data_feature": "allow"
+      "bubble_updates": "allow",
+      "yms_context_menus": "allow",
+      "yms_keepalive_feature": "allow"
     },
     {
       "alias": "AB",
       "name": "E3C4CEA1F2BDDD44C8856921EF07",
       "access_app": "allow",
       "extra_yms_buttons": "allow",
-      "tooltip_additions": "allow",
-      "echo_yms": "allow",
-      "yms_data_feature": "allow"
+      "bubble_updates": "allow",
+      "yms_context_menus": "allow",
+      "yms_keepalive_feature": "allow"
     },
     {
       "alias": "HK",
       "name": "EACBDEA7B29FD318E1987922E3",
       "access_app": "allow",
       "extra_yms_buttons": "allow",
-      "tooltip_additions": "allow",
-      "echo_yms": "allow",
-      "yms_data_feature": "allow"
+      "bubble_updates": "allow",
+      "yms_context_menus": "allow",
+      "yms_keepalive_feature": "allow"
     },
     {
       "alias": "CG",
       "name": "E1CFDEABEEBDD144CD967920E31B",
       "access_app": "allow",
       "extra_yms_buttons": "allow",
-      "tooltip_additions": "allow",
-      "echo_yms": "allow",
-      "yms_data_feature": "allow"
+      "bubble_updates": "allow",
+      "yms_context_menus": "allow",
+      "yms_keepalive_feature": "allow"
     }
   ]
 }
