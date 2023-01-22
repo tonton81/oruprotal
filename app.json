@@ -10,7 +10,7 @@
       "extra_yms_buttons": "allow",
       "tooltip_additions": "allow",
       "echo_yms": "allow",
-      "refresh_yms_spots": "allow"
+      "yms_data_feature": "allow"
     },
     {
       "alias": "TB",
@@ -19,7 +19,7 @@
       "extra_yms_buttons": "allow",
       "tooltip_additions": "allow",
       "echo_yms": "allow",
-      "refresh_yms_spots": "allow"
+      "yms_data_feature": "allow"
     },
     {
       "alias": "AB",
@@ -28,7 +28,7 @@
       "extra_yms_buttons": "allow",
       "tooltip_additions": "allow",
       "echo_yms": "allow",
-      "refresh_yms_spots": "allow"
+      "yms_data_feature": "allow"
     },
     {
       "alias": "HK",
@@ -37,7 +37,7 @@
       "extra_yms_buttons": "allow",
       "tooltip_additions": "allow",
       "echo_yms": "allow",
-      "refresh_yms_spots": "allow"
+      "yms_data_feature": "allow"
     },
     {
       "alias": "CG",
@@ -46,7 +46,7 @@
       "extra_yms_buttons": "allow",
       "tooltip_additions": "allow",
       "echo_yms": "allow",
-      "refresh_yms_spots": "allow"
+      "yms_data_feature": "allow"
     }
   ]
 }
