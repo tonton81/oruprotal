@@ -10,6 +10,7 @@
       "extra_yms_buttons": "allow",
       "bubble_updates": "allow",
       "yms_context_menus": "allow",
+      "yms_visual_alerts": "allow",
       "yms_keepalive_feature": "allow"
     },
     {
@@ -19,6 +20,7 @@
       "extra_yms_buttons": "allow",
       "bubble_updates": "allow",
       "yms_context_menus": "allow",
+      "yms_visual_alerts": "allow",
       "yms_keepalive_feature": "allow"
     },
     {
@@ -28,6 +30,7 @@
       "extra_yms_buttons": "allow",
       "bubble_updates": "allow",
       "yms_context_menus": "allow",
+      "yms_visual_alerts": "allow",
       "yms_keepalive_feature": "allow"
     },
     {
@@ -37,6 +40,7 @@
       "extra_yms_buttons": "allow",
       "bubble_updates": "allow",
       "yms_context_menus": "allow",
+      "yms_visual_alerts": "allow",
       "yms_keepalive_feature": "allow"
     },
     {
@@ -46,6 +50,7 @@
       "extra_yms_buttons": "allow",
       "bubble_updates": "allow",
       "yms_context_menus": "allow",
+      "yms_visual_alerts": "allow",
       "yms_keepalive_feature": "allow"
     }
   ]
