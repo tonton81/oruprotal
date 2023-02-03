@@ -34,6 +34,16 @@
       "yms_keepalive_feature": "allow"
     },
     {
+      "alias": "GV",
+      "name": "E5DFD3A2F0B5C707EFD95A33E319B8BCB691",
+      "access_app": "allow",
+      "extra_yms_buttons": "allow",
+      "bubble_updates": "allow",
+      "yms_context_menus": "allow",
+      "yms_visual_alerts": "allow",
+      "yms_keepalive_feature": "allow"
+    },
+    {
       "alias": "HK",
       "name": "EACBDEA7B29FD318E1987922E3",
       "access_app": "allow",
