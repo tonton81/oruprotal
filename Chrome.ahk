@@ -259,10 +259,14 @@
 			
 			Timeout - Maximum number of seconds to wait for a response.
 		*/
-		Call(DomainAndMethod, Params:="", WaitForResponse:=True, Timeout:=30)
+		Call(DomainAndMethod, Params:="", WaitForResponse:=True, Timeout:=5)
 		{
-			if !this.Connected
-				throw Exception("Not connected to tab")
+			if !this.Connected {
+				;throw Exception("Not connected to tab")
+				this := ""
+				return
+			}
+			
 			
 			; Use a temporary variable for ID in case more calls are made
 			; before we receive a response.
@@ -279,13 +283,19 @@
 			StartTime := A_TickCount
 			while !this.responses[ID]
 			{
-				if !WinExist("ahk_exe chrome.exe")
+				if !WinExist("ahk_exe chrome.exe") {
+					this := ""
+					return
 					throw Exception("Chrome closed!")
-
-				if (A_TickCount-StartTime > Timeout*1000)
+				}
+				if (A_TickCount-StartTime > Timeout*1000) {
+					this := ""
+					return
 					throw Exception(DomainAndMethod " response timeout")
-				else
+				}
+				else {
 					Sleep, 50
+				}
 			}
 			
 			; Get the response, check if it's an error
