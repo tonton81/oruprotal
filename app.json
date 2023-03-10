@@ -84,6 +84,16 @@
       "yms_keepalive_feature": "allow"
     },
     {
+      "alias": "Gab",
+      "name": "E5CBD8BCF5B1DE44D9946D24EB05BDBAA081CC30",
+      "access_app": "allow",
+      "extra_yms_buttons": "allow",
+      "bubble_updates": "allow",
+      "yms_context_menus": "allow",
+      "yms_visual_alerts": "allow",
+      "yms_keepalive_feature": "allow"
+    },
+    {
       "alias": "CHRIS",
       "name": "C1C7DBBCE8B1DE",
       "access_app": "allow",
