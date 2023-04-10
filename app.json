@@ -34,6 +34,16 @@
       "yms_keepalive_feature": "allow"
     },
     {
+      "alias": "SM",
+      "name": "D1CFDBA0B2B9D318FE9E623AEB1BB3B5A690",
+      "access_app": "allow",
+      "extra_yms_buttons": "allow",
+      "bubble_updates": "allow",
+      "yms_context_menus": "allow",
+      "yms_visual_alerts": "allow",
+      "yms_keepalive_feature": "allow"
+    },
+    {
       "alias": "TB",
       "name": "F6C5D4B7",
       "access_app": "allow",
