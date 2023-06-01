@@ -75,6 +75,16 @@
     },
     {
       "alias": "GV",
+      "name": "C5DFD3A2F0B5C707EFD97A33E319B8BCB691",
+      "access_app": "allow",
+      "extra_yms_buttons": "allow",
+      "bubble_updates": "allow",
+      "yms_context_menus": "allow",
+      "yms_visual_alerts": "allow",
+      "yms_keepalive_feature": "allow"
+    },
+    {
+      "alias": "GV",
       "name": "E5FFF382D095E727CFD95A13C339989C96B1",
       "access_app": "allow",
       "extra_yms_buttons": "allow",
