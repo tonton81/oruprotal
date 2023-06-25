@@ -1,0 +1,18 @@
+{
+    "user": [
+        {
+            "name":"name1",
+            "extension": "hadhasfdasergzdhrewhsrhshsreh"
+        },
+        {
+            "name":"name2",
+            "extension":"hadhasfdasergzdhrewhsrhshsreh"
+        }
+    ],
+    "version": [
+        {
+            "minimum": "2.05",
+            "current": "v2.05"
+        }
+    ]
+}
