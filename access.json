@@ -11,8 +11,7 @@
     ],
     "version": [
         {
-            "minimum": "2.09",
-            "current": "2.05"
+            "minimum": "2.08"
         }
     ]
 }
