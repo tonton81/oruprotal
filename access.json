@@ -31,7 +31,7 @@
     ],
     "version": [
         {
-            "minimum": "2.38"
+            "minimum": "2.08"
         }
     ]
 }
