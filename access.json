@@ -1,37 +1,12 @@
 {
-    "u": [
-        {
-            "n":"Daniel O’connor",
-            "extension": "agkhldhjkhmfcfjbmbmdnjnlgijnnpff"
-        },
-        {
-            "n":"Hadi Karkouti",
-            "extension": "agkhldhjkhmfcfjbmbmdnjnlgijnnpff"
-        },
-        {
-            "n":"Kien Minh Ta",
-            "extension": "agkhldhjkhmfcfjbmbmdnjnlgijnnpff"
-        },
-        {
-            "n":"Guillaume Veilleux",
-            "extension": "agkhldhjkhmfcfjbmbmdnjnlgijnnpff"
-        },
-        {
-            "n":"Guy Leblanc",
-            "extension": "agkhldhjkhmfcfjbmbmdnjnlgijnnpff"
-        },
-        {
-            "n":"Gabriel Scarapicchia",
-            "extension": "agkhldhjkhmfcfjbmbmdnjnlgijnnpff"
-        },
-        {
-            "n":"Antonio Brewer",
-            "extension":"hadhasfdasergzdhrewhsrhshsreh"
-        }
-    ],
-    "version": [
-        {
-            "minimum": "2.08"
-        }
-    ]
+  "users": [
+    {
+      "undefined": "undefined"
+    },
+    {
+      "alias": "AB",
+      "id": "NjAyMjc2Mzk=",
+      "access": "allow"
+    }
+  ]
 }
