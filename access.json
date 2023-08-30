@@ -1,12 +1,13 @@
 {
   "users": [
     {
-      "undefined": "undefined"
+      "version": "1.0"
     },
     {
-      "alias": "AB",
-      "id": "NjAyMjc2Mzk=",
-      "access": "allow"
+      "alias": "TB",
+      "id": "NjA2NDE1OTM=",
+      "yms_access": "allow",
+      "echo_access": "allow"
     }
   ]
 }
