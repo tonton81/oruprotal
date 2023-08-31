@@ -6,6 +6,12 @@
       "id": "NjA2NDE1OTM=",
       "yms_access": "allow",
       "echo_access": "allow"
+    },
+    {
+      "alias": "TBSB",
+      "id": "NDA2NDE1OUU5RDIG",
+      "yms_access": "allow",
+      "echo_access": "allow"
     }
   ]
 }
