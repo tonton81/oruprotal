@@ -12,6 +12,12 @@
       "id": "NDA2NDE1OUU5RDlG",
       "yms_access": "allow",
       "echo_access": "allow"
+    },
+    {
+      "alias": "AB",
+      "id": "NzU2NUY4NTlDOThCQTZCRjAyRjI0OTg5QzE=",
+      "yms_access": "allow",
+      "echo_access": "allow"
     }
   ]
 }
