@@ -2,20 +2,26 @@
   "version": "1.0",
   "users": [
     {
-      "alias": "TB",
+      "alias": "TB-EXCEL",
       "id": "NjA2NDE1OTM=",
       "yms_access": "allow",
       "echo_access": "allow"
     },
     {
-      "alias": "TBSB",
+      "alias": "TBSB-EXCEL",
       "id": "NDA2NDE1OUU5RDlG",
       "yms_access": "allow",
       "echo_access": "allow"
     },
     {
-      "alias": "AB",
+      "alias": "AB-EXCEL",
       "id": "NzU2NUY4NTlDOThCQTZCRjAyRjI0OTg5QzE=",
+      "yms_access": "allow",
+      "echo_access": "allow"
+    }
+    {
+      "alias": "TB-EXTV1",
+      "id": "NjAyMjc2Mzk=",
       "yms_access": "allow",
       "echo_access": "allow"
     }
