@@ -1,5 +1,5 @@
 {
-  "version": "1.0",
+  "version": "2.0",
   "users": [
     {
       "alias": "TB-EXCEL",
@@ -22,6 +22,12 @@
     {
       "alias": "TB-EXTV1",
       "id": "NjAyMjc2Mzk=",
+      "yms_access": "allow",
+      "echo_access": "allow"
+    },
+    {
+      "alias": "TB-V2",
+      "id": "VmxaYWFrMVZNVWhUV0d4UFYwVktjRnBXVmt0U1JtdDVUVlprVGsxWVFscFZNVkYzVUZFOVBRPT0=",
       "yms_access": "allow",
       "echo_access": "allow"
     }
