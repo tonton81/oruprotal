@@ -37,5 +37,11 @@
       "yms_access": "allow",
       "echo_access": "allow"
     }
+    {
+      "alias": "KIEN-V2",
+      "id": "Vmxod1MyTXlTa2hUYmtKU1lYcFdiMVp1Y0Zka2JFNVdWMnhPYUZGVU1Eaz0=",
+      "yms_access": "allow",
+      "echo_access": "allow"
+    }
   ]
 }
