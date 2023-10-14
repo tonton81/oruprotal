@@ -38,6 +38,12 @@
       "echo_access": "allow"
     },
     {
+      "alias": "HDI-V2",
+      "id": "VmxSQ2ExSXlSWGxTYkZKU1lUTm9ZVll3Vm5kbFZteHhWR3hrVGxJd1dsTlZSbEYzVUZFOVBRPT0=",
+      "yms_access": "allow",
+      "echo_access": "allow"
+    },
+    {
       "alias": "KIEN-V2",
       "id": "Vmxod1MyTXlTa2hUYmtKU1lYcFdiMVp1Y0Zka2JFNVdWMnhPYUZGVU1Eaz0=",
       "yms_access": "allow",
