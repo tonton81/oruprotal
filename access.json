@@ -30,6 +30,12 @@
       "id": "VmxaYWFrMVZNVWhUV0d4UFYwVktjRnBXVmt0U1JtdDVUVlprVGsxWVFscFZNVkYzVUZFOVBRPT0=",
       "yms_access": "allow",
       "echo_access": "allow"
+    },
+    {
+      "alias": "NKI-V2",
+      "id": "Vm10amVHTXlSblJTV0hCb1RXMVNWRlZxUm1GT2JHeFlUVlprYUZJd2NIZFZWM1JyV1Zaa1JtTkVWbGhXYldoTVdUQkZPVkJSUFQwPQ==",
+      "yms_access": "allow",
+      "echo_access": "allow"
     }
   ]
 }
