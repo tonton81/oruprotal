@@ -32,6 +32,12 @@
       "echo_access": "allow"
     },
     {
+      "alias": "GAB-V2",
+      "id": "Vmxkd1MxSXlSbGhVYmxKcFVqTm9jRlZVUWt0V1ZtUlZVMnRrYkZadGVGcFZWelZEVjJzeGNrNVlXbHBXYlZKSFZVWkZPVkJSUFQwPQ==",
+      "yms_access": "allow",
+      "echo_access": "allow"
+    },
+    {
       "alias": "NKI-V2",
       "id": "Vm10amVHTXlSblJTV0hCb1RXMVNWRlZxUm1GT2JHeFlUVlprYUZJd2NIZFZWM1JyV1Zaa1JtTkVWbGhXYldoTVdUQkZPVkJSUFQwPQ==",
       "yms_access": "allow",
