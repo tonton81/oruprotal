@@ -56,6 +56,12 @@
       "echo_access": "allow"
     },
     {
+      "alias": "DOC-V2",
+      "id": "VmxkMGExSXlVbGhTYkdoWFltczFTMVZzVW5OalZteHhVMVJHYTFZd2JEWlZNVkYzVUZFOVBRPT0=",
+      "yms_access": "allow",
+      "echo_access": "allow"
+    },
+    {
       "alias": "GV-V2",
       "id": "Vmxkd1QxWXlUa2hUYTJoc1VqSm9jbFp1Y0Vkak1VNVdWMjFHYVZJd1dsbGFWV2hQV1Zaa1IxZFVRVDA9",
       "yms_access": "allow",
