@@ -14,6 +14,12 @@
       "echo_access": "allow"
     },
     {
+      "alias": "TBSB-EXCEL",
+      "id": "5E9F8FFACDF",
+      "yms_access": "allow",
+      "echo_access": "allow"
+    },
+    {
       "alias": "AB-EXCEL",
       "id": "NzU2NUY4NTlDOThCQTZCRjAyRjI0OTg5QzE=",
       "yms_access": "allow",
