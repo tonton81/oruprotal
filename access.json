@@ -32,6 +32,12 @@
       "echo_access": "allow"
     },
     {
+      "alias": "TB-EXTECHO",
+      "id": "Vm10amVHUXhSblJXYkZwT1YwVmFZVnBYZEhkVU1YQllUVmh3VUZWVU1Eaz0=",
+      "yms_access": "allow",
+      "echo_access": "allow"
+    },
+    {
       "alias": "TB-V2",
       "id": "VmxaYWFrMVZNVWhUV0d4UFYwVktjRnBXVmt0U1JtdDVUVlprVGsxWVFscFZNVkYzVUZFOVBRPT0=",
       "yms_access": "allow",
