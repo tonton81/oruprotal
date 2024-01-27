@@ -20,6 +20,12 @@
       "echo_access": "allow"
     },
     {
+      "alias": "BISCUIT-V2",
+      "id": "VmxSSmVGWXlSa2hUYmtKT1ZsZFNjVmxzVm1GTlZtUlZVMVJXYWxJd05ERlZWM1JYVjJ4a1IyTklaRmhoTUZVMVZVWkZPVkJSUFQwPQ==",
+      "yms_access": "allow",
+      "echo_access": "allow"
+    },
+    {
       "alias": "AB-EXCEL",
       "id": "NzU2NUY4NTlDOThCQTZCRjAyRjI0OTg5QzE=",
       "yms_access": "allow",
