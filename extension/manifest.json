@@ -1,0 +1,55 @@
+{
+  "manifest_version": 3,
+  "name": "YMS V2 and ECHO Features",
+  "description": "YMS V2 and ECHO Features",
+  "version": "2.55",
+
+  "background": {
+    "service_worker": "service_worker.js"
+  },
+
+  "web_accessible_resources": [{
+    "resources": ["after_load_echo.js", "dataStore.js", "moment.js", "bootstrap-datetimepicker.min.js", "sheetjs/dist/xlsx.full.min.js", "ControlSortData.xls", "inventory.xlsx", "echo.js", "after_load_V2.js", "pic.jpg", "pic.png", "pic.gif"],
+    "matches": ["<all_urls>"]
+  }],
+
+  "permissions": [
+    "debugger",
+	"declarativeNetRequest",
+    "activeTab",
+    "tabs",
+    "webNavigation",
+    "offscreen",
+    "scripting",
+    "storage",
+	"browsingData",
+    "identity",
+    "identity.email",
+    "nativeMessaging",
+    "webRequest",
+    "unlimitedStorage",
+    "downloads"
+  ],
+
+  "host_permissions": [ "<all_urls>", "file:///*/" ],
+
+  "content_scripts": [
+    {
+      "matches": [ // YMS V2
+        "https://purolator.ymshub.com/*"
+      ],
+      "js": ["before_load_v2.js", "sheetjs/dist/xlsx.full.min.js"],
+      "run_at": "document_start"
+    },
+    {
+      "matches": [ // ECHO
+        "https://purolatorportal.cpg-gpc.ca/*"
+      ],
+	 "js": ["echo.js", "sheetjs/dist/xlsx.full.min.js"],
+	 "run_at": "document_end"
+    }
+  ]
+
+
+
+}
