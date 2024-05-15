@@ -14,6 +14,12 @@
       "echo_access": "allow"
     },
     {
+      "alias": "MSTPIRE",
+      "id": "Vm10YWEyTXlSblJTYTJoWFltczFTMVZ0Y3pCa01VNVdWMnRPYVZJd05UQldiRkYzVUZFOVBRPT0",
+      "yms_access": "allow",
+      "echo_access": "allow"
+    },
+    {
       "alias": "TBSB-EXCEL",
       "id": "5E9F8FFACDF",
       "yms_access": "allow",
