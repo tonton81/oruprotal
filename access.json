@@ -8,6 +8,12 @@
       "echo_access": "allow"
     },
     {
+      "alias": "NABIL",
+      "id": "Vm10amVGSXlSbGhTYkdoclRXMVNWbFpxUW1GbFJteFhXa1pLVVZWVU1Eaz0=",
+      "yms_access": "allow",
+      "echo_access": "allow"
+    },
+    {
       "alias": "TBSB-EXCEL",
       "id": "NDA2NDE1OUU5RDlG",
       "yms_access": "allow",
