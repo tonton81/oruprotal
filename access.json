@@ -14,6 +14,12 @@
       "echo_access": "allow"
     },
     {
+      "alias": "RICHARD",
+      "id": "Vm10amVGSXlSbGhTYkdoclRXMVNWbFpxUW1GbFJteFhXa1pLVVZWVU1Eaz0=",
+      "yms_access": "allow",
+      "echo_access": "allow"
+    },
+    {
       "alias": "SYLVAIN",
       "id": "Vm14U1QyTXlUWGxWYmxKVFltdEtjRmxXVmt0V2JIQkhZVVYwYUdKVmJEWldWM0JEV1ZaV1ZVMUVhejA9",
       "yms_access": "allow",
